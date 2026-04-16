@@ -10,3 +10,9 @@ https://drive.google.com/drive/folders/1psixAQpxsnIPqiT5Nnu0H4_u2Ot832Dc
 #### 2.Download the Data folder.
 #### 3.Place the Data/ folder in the project directory.
 
+### How to Test
+#### Place your test images inside the Test_pictures/ folder.
+### Open Project.ipynb.
+#### Run all cells.
+#### The model will predict the facial expression for the test images.
+
