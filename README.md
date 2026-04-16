@@ -16,6 +16,11 @@ https://drive.google.com/drive/folders/1psixAQpxsnIPqiT5Nnu0H4_u2Ot832Dc
 #### Run all cells.
 #### The model will predict the facial expression for the test images.
 
+## Sample Output
+#### Image 4 -> Happy
+<img width="368" height="77" alt="image" src="https://github.com/user-attachments/assets/ddc0272b-9fc0-4322-9b83-6c738d3728a5" />
+
+
 ## Requirements
 #### Install dependencies using:
 #### pip install -r requirements.txt
